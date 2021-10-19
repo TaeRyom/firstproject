@@ -1,2 +1,3 @@
 # firstproject
-this is my tutorial folder
+
+This is my R tutorial folder.
